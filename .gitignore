@@ -1,2 +1,8 @@
-vendor/.
+*.gem
+*.rbc
+
+
+/vendor
+/vendor/bundle
+/.bundle
 
